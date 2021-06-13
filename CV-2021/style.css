@@ -231,7 +231,7 @@ ul{
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    border: 2px solid var(--main-color);
+    border: 3px solid var(--main-color);
 }
 
 /* .resume .resume_right .resume_work ul li:after,
