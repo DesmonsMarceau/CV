@@ -105,12 +105,12 @@ a {
 }
 
 .resume .resume_item{
-    padding: 10px 0;
+    padding: 9px 0;
     border-bottom: 2px solid var(--second-color);
 }
 
 .resume .resume_left .resume_item{
-    padding: 6px 0;
+    padding: 9px 0;
 }
 
 .resume .resume_left .resume_item:last-child,
@@ -228,7 +228,7 @@ ul{
 .resume .resume_right ul li .date {
     font-size: 16px;
     font-weight: 500;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 .resume .resume_right ul li .info {
