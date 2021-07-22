@@ -124,13 +124,13 @@ ul{
 
 .resume .resume_left .resume_item ul {
     border-radius: 2%; 
-    background: repeating-linear-gradient(    
+    /* background: repeating-linear-gradient(    
         45deg,    
         var(--background-color),    
         var(--background-color) 1px,    
         var(--main-color) 1px,    
         var(--main-color) 14px  
-    );
+    ); */
 }
 
 .resume .resume_left ul li {
