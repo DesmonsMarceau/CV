@@ -136,7 +136,7 @@ ul{
 .resume .resume_left ul li {
     display: flex;
     align-items: center;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
 }
 
 .resume .resume_left ul li:last-child {
@@ -177,7 +177,18 @@ ul{
 }
 
 .resume .resume_left .resume_skills ul li .skill_name {
-    width: 40%;
+    width: 35%;
+}
+
+.resume .resume_left .resume_skills ul li .skill_level {
+    background-color: var(--custom-color);
+    border: 1px solid var(--third-color);
+    border-radius: 3px;
+    color: var(--font-color);
+    font-weight: 500;
+    font-size: 11px;
+    text-align: center;
+    width: 61%;
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress {
